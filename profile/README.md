@@ -2,6 +2,8 @@
 
 **Pentests for web apps, APIs and AI agents. Every month, checked by people.**
 
+The customer workspace includes Repositories and Reports. [Create a LOKI workspace](https://app.loki-intelligence.com/?auth=create&utm_source=github&utm_medium=referral&utm_campaign=workspace_intelligence&utm_content=organization_readme).
+
 - **Website:** [https://loki-intelligence.com](https://loki-intelligence.com) ([NL](https://loki-intelligence.com/nl) · [DE](https://loki-intelligence.com/de))
 - **For AI agents:** [https://loki-intelligence.com/agents](https://loki-intelligence.com/agents) · [`llms.txt`](https://loki-intelligence.com/llms.txt)
 - **Contact:** [Request a quote](https://loki-intelligence.com/contact#quote-form) · `sweder@lokiintelligences.com` · `+31 970 1025 6868`
