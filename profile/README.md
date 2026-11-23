@@ -1,10 +1,8 @@
 # LOKI Intelligence
 
-LOKI helps teams make sense of security findings about the applications they own. Use the workspace to ask a question about an application, review the evidence behind a finding, and decide what to fix next.
+**Pentests for web apps, APIs and AI agents. Every month, checked by people.**
 
-[Create your workspace](https://app.loki-intelligence.com/?auth=create&utm_source=github&utm_medium=referral&utm_campaign=workspace_intelligence&utm_content=organization_readme) · [See how the workspace works](https://loki-intelligence.com/security-workspace)
-
-Teams that need a formal web application or API pentest can request a human-reviewed assessment with remediation guidance and a scoped retest.
+The customer workspace includes Repositories and Reports. [Create a LOKI workspace](https://app.loki-intelligence.com/?auth=create&utm_source=github&utm_medium=referral&utm_campaign=workspace_intelligence&utm_content=organization_readme).
 
 - **Website:** [https://loki-intelligence.com](https://loki-intelligence.com) ([NL](https://loki-intelligence.com/nl) · [DE](https://loki-intelligence.com/de))
 - **For AI agents:** [https://loki-intelligence.com/agents](https://loki-intelligence.com/agents) · [`llms.txt`](https://loki-intelligence.com/llms.txt)
